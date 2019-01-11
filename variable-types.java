@@ -40,3 +40,15 @@ public class RelationalOperators {
 
 	}
 }
+/*
+equality operators.
+*/
+public class EqualityOperators {
+	public static void main(String[] args) {
+
+    char myChar = 'A';
+    int myInt = -4;
+		System.out.println(myChar == myInt);
+
+	}
+}
