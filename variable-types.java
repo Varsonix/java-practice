@@ -25,3 +25,18 @@ public class Modulo {
 
 	}
 } 
+
+/*
+Relational operators and boolean variable declarations.
+*/
+public class RelationalOperators {
+	public static void main(String[] args) {
+
+    boolean myNumber = 3 > 2;
+    boolean myOtherNumber = 3 >= 2;
+    boolean myOtherOtherNumber = 4 < 2;
+    boolean myOtherOtherOtherNumber = 4 <= 2;
+		System.out.println(myNumber);
+
+	}
+}
